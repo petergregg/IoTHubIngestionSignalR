@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "IOTHubIngestionSignalR": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7178 --cors https://localhost:7145",
+      "launchBrowser": false
+    }
+  }
+}
